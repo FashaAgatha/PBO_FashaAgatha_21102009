@@ -6,7 +6,7 @@ public class TryCatch {
         int[] nomor = {1,2 ,3,4, 5};
 
         try{
-            System.out.println(nomor[4]);
+            System.out.println(nomor[6]);
         }
 
         catch (ArrayIndexOutOfBoundsException e) {
